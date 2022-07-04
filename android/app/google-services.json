@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "869873301662",
+    "project_id": "travelguru-9cf7d",
+    "storage_bucket": "travelguru-9cf7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869873301662:android:45a8dbc742fb94ee8f638f",
+        "android_client_info": {
+          "package_name": "com.example.travel_guru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869873301662-gsefai7f81us07cetm15e7c12g039fum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP8DRRa4P8zgrp1qx9TFTcOVi_zz52jVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869873301662-gsefai7f81us07cetm15e7c12g039fum.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "869873301662-10j85fb0k2pcgdavph1kp85d60mq03po.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travelGuru"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
